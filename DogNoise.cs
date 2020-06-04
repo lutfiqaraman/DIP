@@ -6,5 +6,10 @@ namespace dipproject
     {
       return "Bark";
     }
+
+    public string canEat()
+    {
+      return "can eat";
+    }
   }
 }

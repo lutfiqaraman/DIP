@@ -2,15 +2,20 @@ namespace dipproject
 {
   public class Mammal
   {
-    IMakingNoise noise;
+    IMakingNoise behaviour;
     public Mammal(IMakingNoise IMN)
     {
-      this.noise = IMN;
+      this.behaviour = IMN;
     }
 
     public string makeNoise()
     {
-      return this.noise.makeNoise();
+      return this.behaviour.makeNoise();
+    }
+
+    public string canEat()
+    {
+      return this.behaviour.canEat();
     }
   }
 }
