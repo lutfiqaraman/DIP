@@ -3,6 +3,7 @@ namespace dipproject
   public class Mammal
   {
     IMakingNoise behaviour;
+    
     public Mammal(IMakingNoise IMN)
     {
       this.behaviour = IMN;
