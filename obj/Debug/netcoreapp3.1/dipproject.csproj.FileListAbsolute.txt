@@ -1,0 +1,13 @@
+C:\Users\lutfi\Desktop\dipproject\bin\Debug\netcoreapp3.1\dipproject.exe
+C:\Users\lutfi\Desktop\dipproject\bin\Debug\netcoreapp3.1\dipproject.deps.json
+C:\Users\lutfi\Desktop\dipproject\bin\Debug\netcoreapp3.1\dipproject.runtimeconfig.json
+C:\Users\lutfi\Desktop\dipproject\bin\Debug\netcoreapp3.1\dipproject.runtimeconfig.dev.json
+C:\Users\lutfi\Desktop\dipproject\bin\Debug\netcoreapp3.1\dipproject.dll
+C:\Users\lutfi\Desktop\dipproject\bin\Debug\netcoreapp3.1\dipproject.pdb
+C:\Users\lutfi\Desktop\dipproject\obj\Debug\netcoreapp3.1\dipproject.csprojAssemblyReference.cache
+C:\Users\lutfi\Desktop\dipproject\obj\Debug\netcoreapp3.1\dipproject.csproj.CoreCompileInputs.cache
+C:\Users\lutfi\Desktop\dipproject\obj\Debug\netcoreapp3.1\dipproject.AssemblyInfoInputs.cache
+C:\Users\lutfi\Desktop\dipproject\obj\Debug\netcoreapp3.1\dipproject.AssemblyInfo.cs
+C:\Users\lutfi\Desktop\dipproject\obj\Debug\netcoreapp3.1\dipproject.dll
+C:\Users\lutfi\Desktop\dipproject\obj\Debug\netcoreapp3.1\dipproject.pdb
+C:\Users\lutfi\Desktop\dipproject\obj\Debug\netcoreapp3.1\dipproject.genruntimeconfig.cache
